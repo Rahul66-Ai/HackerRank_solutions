@@ -53,7 +53,7 @@ Print `Weird` if the number is weird; otherwise, print `Not Weird`.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-30T18:54:38.450Z  
+**Submitted:** 2026-11-12T17:14:49.396Z  
 
 ```java
 import java.util.Scanner;
